@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "name": "calculator",
+  "description": "Of course you need another calculator...",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.4.10",
+    "babel-core": "^6.26.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotkutya/calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "robotkutya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robotkutya/calculator/issues"
+  },
+  "homepage": "https://github.com/robotkutya/calculator#readme"
+}
